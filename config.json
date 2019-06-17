@@ -1,0 +1,18 @@
+{
+    "directories": [
+        {
+            "version": "1.1",
+            "nameDirectory": "survival_1.1",
+            "files": []
+        }
+    ],
+	"linksDownload": [
+        {
+            "namePlatform": "Android",
+            "nameSite": "Apklis",
+            "size": "87",
+            "version": "1.0",
+            "link": "https://www.apklis.cu/es/application/cu.uci.vertex.coliseum/1.0"
+        }
+    ]
+}
